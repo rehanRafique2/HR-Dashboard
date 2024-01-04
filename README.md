@@ -56,6 +56,8 @@ Our HR Dashboard amalgamates these critical dimensions, offering a comprehensive
 
 ![Screenshot 2024-01-04 152319](https://github.com/rehanRafique2/HR-Dashboard/assets/132441974/ddaa086f-ebe4-4188-950e-b9fc3069f2dd)
 
+## Thank You
+
 
 
   
